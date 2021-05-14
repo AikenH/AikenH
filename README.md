@@ -26,7 +26,7 @@ KNOWLEDGE HAS NO LIMIT！
 
 🌱 I’m currently learning:
 - Reinforcement Learning， Game Ai
-- Transformer， New MLP，New CLass Discovery，Few-Shot—Learning，...
+- Transformer， New MLP，New CLass Discovery，Few-Shot-Learning，...
 
 🔭 I'm currentlu working on:
 - Code A Universal Framework for (CV)Classification to Finish my graduation project
