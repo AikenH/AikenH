@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+![image](https://user-images.githubusercontent.com/23023315/118502366-3771a100-b75c-11eb-8ad2-96a3c764e969.png)
 <!--
 **AikenH/AikenH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Aiken H, A master candidate of XJTU，Working on Weakly-Supervised-Learning（CV）  
-==============================》DEEP DIVE《 ======================================  
-KNOWLEDGE HAS NO LIMIT！
+========I'm Aiken H, 👨‍🎓A master candidate of XJTU，💻Working on 🍕Weakly-Supervised-Learning（CV）========   
+  
 
+**KNOWLEDGE HAS NO LIMIT！DEEP DIVE**  
 ⚡ MY FAVORITE
 - I Love Playing Video Games like Dasksouls Ⅲ，Sekiro，Horizon Zero Dawn，...
 - I Enjoy Watching Moving & Listening to Music
