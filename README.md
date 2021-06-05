@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 2. ... This position is reserved for my FrameWork 
 3. ... This position is reserved for FashionDesign
 
-[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Mycv_Framework&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=myCV_Workflow&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### The langs or tools: 
 
