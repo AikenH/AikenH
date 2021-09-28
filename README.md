@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - I Love Playing Video Games like Dasksouls Ⅲ，Sekiro，Horizon Zero Dawn，...
 - I Enjoy Watching Moving & Listening to Music
 - I Love Traveling ✈ ...
+- Metis_Y,YH
 
 🌱 I’m currently learning:
 - Reinforcement Learning， Game Ai
