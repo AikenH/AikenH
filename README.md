@@ -1,5 +1,5 @@
 # Hi there 👋
-![image](https://gitee.com/Aiken97/markdown-image/raw/master/3070imgs/1_eu4cWRZXUt3ybNFzeT-q8Q.png)
+![image](https://cdn-media-1.freecodecamp.org/images/1*eu4cWRZXUt3ybNFzeT-q8Q.png)
 <!--
 **AikenH/AikenH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
