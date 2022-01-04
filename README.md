@@ -1,5 +1,4 @@
 # Hi there 👋
-![image](https://gitee.com/Aiken97/markdown-image/raw/master/3070imgs/12cedbc76d1d1980aa3d0ba5dc3000d.jpg)
 <!--
 **AikenH/AikenH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
 ========I'm Aiken H, 👨‍🎓A master candidate of XJTU，💻Working on 🍕Weakly-Supervised-Learning（CV）========   
   
 
-**KNOWLEDGE HAS NO LIMIT！DEEP DIVE**  
 ⚡ MY FAVORITE
 - I Love Playing Video Games like Darksouls Ⅲ，Sekiro，Horizon Zero Dawn，...
 - I Enjoy Watching Moving & Listening to Music
