@@ -1,5 +1,5 @@
 # Hi there 👋
-![image](https://user-images.githubusercontent.com/23023315/118502366-3771a100-b75c-11eb-8ad2-96a3c764e969.png)
+![image](https://gitee.com/Aiken97/markdown-image/raw/master/3070imgs/1_eu4cWRZXUt3ybNFzeT-q8Q.png)
 <!--
 **AikenH/AikenH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
