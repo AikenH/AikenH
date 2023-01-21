@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/banner.png">
+  <img src="https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/banner.png" width=50%>
 </p>
 
 <p align="center">
@@ -41,6 +41,6 @@ I look forward to becoming a full-stack engineer one day, and I am working hard 
 
 I will keep updating this eadme. If you are interested, you can click a star. The resources and projects are used in this file will be update in the blog.
 
-![Aiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&show_icons=true&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AikenH&layout=compact&count_private=true)](https://github.com/AikenH/github-readme-stats) 
+![Aiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&show_icons=true&count_private=true)  
 
 封面图来自中国独立游戏大赛，如有侵权请联系；
