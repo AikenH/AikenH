@@ -31,7 +31,8 @@ In my spare time, I am doing the following projects:
 - LTS for Dotfiles(nvim, vim, tmux, zshrc...)
 - Create Videos for How to Config Linux/Windows/Mac
 
-[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=configs_scripts&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes)](https://github.com/anuraghazra/github-readme-stats)  
+[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=configs_scripts)](https://github.com/anuraghazra/github-readme-stats)  
 
 I look forward to becoming a full-stack engineer one day, and I am working hard to improve my programming skills recently.  
 (out of date now)At the same time, as an AI engineer,  recently I paid attention to the following industry developments：
@@ -42,6 +43,6 @@ I look forward to becoming a full-stack engineer one day, and I am working hard 
 
 I will keep updating this readme. If you are interested, you can click a star. The resources and projects are used in this file will be update in the blog.
 
-![Aiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&show_icons=true&count_private=true)  
+[![Aikenh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 封面图来自中国独立游戏大赛，如有侵权请联系；
