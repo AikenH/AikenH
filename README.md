@@ -1,6 +1,7 @@
+<!-- ![banner](https://user-images.githubusercontent.com/23023315/213860678-edc1a934-5140-4f26-91f0-f5b658dcbfd3.png) -->
 
 <p align="center">
-  <img src="https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/banner.png" width=50%>
+  <img src="https://user-images.githubusercontent.com/23023315/213860678-edc1a934-5140-4f26-91f0-f5b658dcbfd3.png" width=70%>
 </p>
 
 <p align="center">
@@ -32,14 +33,14 @@ In my spare time, I am doing the following projects:
 
 [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=configs_scripts&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-I look forward to becoming a full-stack engineer one day, and I am working hard to improve my programming skills recently.
-(out of date now)At the same time, as an AI engineer, I have recently paid attention to the following industry developments：
+I look forward to becoming a full-stack engineer one day, and I am working hard to improve my programming skills recently.  
+(out of date now)At the same time, as an AI engineer,  recently I paid attention to the following industry developments：
 
 1. AIGC
 2. Big Model
 3. Unified model
 
-I will keep updating this eadme. If you are interested, you can click a star. The resources and projects are used in this file will be update in the blog.
+I will keep updating this readme. If you are interested, you can click a star. The resources and projects are used in this file will be update in the blog.
 
 ![Aiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&show_icons=true&count_private=true)  
 
