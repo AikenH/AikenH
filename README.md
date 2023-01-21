@@ -31,8 +31,7 @@ In my spare time, I am doing the following projects:
 - LTS for Dotfiles(nvim, vim, tmux, zshrc...)
 - Create Videos for How to Config Linux/Windows/Mac
 
-[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes)](https://github.com/anuraghazra/github-readme-stats)  
-[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=configs_scripts)](https://github.com/anuraghazra/github-readme-stats)  
+[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes)](https://github.com/anuraghazra/github-readme-stats)  [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=configs_scripts)](https://github.com/anuraghazra/github-readme-stats)  
 
 I look forward to becoming a full-stack engineer one day, and I am working hard to improve my programming skills recently.  
 (out of date now)At the same time, as an AI engineer,  recently I paid attention to the following industry developments：
