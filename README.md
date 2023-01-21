@@ -1,57 +1,46 @@
-# Hi there 👋
-<!--
-**AikenH/AikenH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/banner.png">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://aikenh.cn">
+  <img src="https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/167428059648793.png">
+</p>
 
-========I'm Aiken H, 👨‍🎓A master candidate of XJTU，💻Working on 🍕Weakly-Supervised-Learning（CV）========   
-  
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=F76A53&background=7AFF5B00&center=true&width=480&lines=Stay+hungry+and+keep+learning;Strive+to+become+a+full-stack+engineer" alt="Typing SVG" /></a>
+</p>
 
-⚡ MY FAVORITE
-- I Love Playing Video Games like Darksouls Ⅲ，Sekiro，Horizon Zero Dawn，...
-- I Enjoy Watching Moving & Listening to Music
-- I Love Traveling ✈ ...
-- Metis_Y,YH
+<p align="center">
+  <a href="https://aikenh.cn"><img alt="github" title="AikenD" src="https://custom-icon-badges.demolab.com/badge/-aiken%20blog-palegreen?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://twitter.com/aiken_h97"><img alt="twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/-twitter%20aikenh97-plum?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://www.zhihu.com/people/Aiken-h"><img alt="zhihu" title="Zhihu" src="https://custom-icon-badges.demolab.com/badge/-zhihu%20Aikenh-gold?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://h.aiken.970@gmail.com"><img alt="gmail" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-h.aiken.970@gmail-teal?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://steamcommunity.com/id/AikenH/"><img alt="steam" title="steam" src="https://custom-icon-badges.demolab.com/badge/-Steam-blue?style=for-the-badge&logo=package&logoColor=black"></a>  
+</p>
 
-🌱 I’m currently learning:
-- Reinforcement Learning， Game Ai
-- Transformer， New MLP，New CLass Discovery，Few-Shot-Learning，...
 
-🔭 I'm currentlu working on:
-- Code A Universal Framework for (CV)Classification to Finish my graduation project
+I am a Machine Learning Engineer work in IT industry, Graduated from Xi'an Jiaotong University with a master's degree. 
 
-![Aiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&theme=onedark&show_icons=true)  
+In my spare time, I am doing the following projects:
 
-### Some Projects
-1. This repo is used to store Leetcode's training code and related notes about Data-Structure and Algorithm Anasysis in Cpp.
-    And this reop will Contain Some Internship Preparations.  
-2. ... This position is reserved for my FrameWork 
-3. ... This position is reserved for FashionDesign
+- Code A Universal Framework for (CV)Classification to my project
+- Keep Write My Blog (By Hexo
+- LTS for Dotfiles(nvim, vim, tmux, zshrc...)
+- Create Videos for How to Config Linux/Windows/Mac
 
-[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-### The langs or tools: 
+[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=configs_scripts&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-- 🔨VSCODE, VS，...
-- 🔒Docker（with portainer），WSL  
-- ...  
+I look forward to becoming a full-stack engineer one day, and I am working hard to improve my programming skills recently.
+(out of date now)At the same time, as an AI engineer, I have recently paid attention to the following industry developments：
 
-  
-☀Python（For Deep Learning）， CPP...  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AikenH&layout=compact&theme=dracula)](https://github.com/AikenH/github-readme-stats)
+1. AIGC
+2. Big Model
+3. Unified model
 
-### Get in touch
-[![GitHub](https://img.shields.io/badge/GITHUB-Aiken-blue)](https://aikenh.github.io/about/)
-[![Twitter](https://img.shields.io/badge/TWITTER-Aiken-green)](https://twitter.com/aiken_h97)
-[![ZhiHu](https://img.shields.io/badge/ZHIHU-Aiken-yellow)](https://www.zhihu.com/people/Aiken-h)
-[![Gmail](https://img.shields.io/badge/GAMIL-Aiken-red)](https://h.aiken.970@gmail.com)
-[![STEAM](https://img.shields.io/badge/STEAM-Aiken-blueviolet)](https://steamcommunity.com/id/AikenH/)
+I will keep updating this eadme. If you are interested, you can click a star. The resources and projects are used in this file will be update in the blog.
+
+![Aiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&show_icons=true&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AikenH&layout=compact&count_private=true)](https://github.com/AikenH/github-readme-stats) 
+
+封面图来自中国独立游戏大赛，如有侵权请联系；
