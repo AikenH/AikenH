@@ -45,5 +45,3 @@ I will keep updating this readme. If you are interested, you can click a star. T
 <!--[![Aikenh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 封面图来自中国独立游戏大赛，如有侵权请联系；
-
-![peerlist-github-recap.png](https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/3070PC/peerlist-github-recap.png)
