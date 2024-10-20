@@ -2,29 +2,20 @@
 <!-- ![banner](https://user-images.githubusercontent.com/23023315/213860678-edc1a934-5140-4f26-91f0-f5b658dcbfd3.png) -->
 
 <p align="center">
-  <img src=" https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/DSCF4104_%E5%89%AF%E6%9C%AC.JPG" width=100%>
-</p>
-
+  <img src="https://github.com/user-attachments/assets/5f4c8954-8a9e-4a42-879f-c01d97b4c6ae" width=70%>
+</p>!
 
 <p align="center">
   👋 Hi there! I'm AikenHong.
 </p>
 
-<p align="center">
-  <a href="https://aikenh.cn"><img alt="github" title="AikenD" src="https://custom-icon-badges.demolab.com/badge/-aiken%20blog-palegreen?style=for-the-badge&logo=package&logoColor=black"></a>
-  <a href="https://twitter.com/aiken_h97"><img alt="twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/-twitter%20aikenh97-plum?style=for-the-badge&logo=package&logoColor=black"></a>
-  <a href="https://www.zhihu.com/people/Aiken-h"><img alt="zhihu" title="Zhihu" src="https://custom-icon-badges.demolab.com/badge/-zhihu%20Aikenh-gold?style=for-the-badge&logo=package&logoColor=black"></a>
-  <a href="https://h.aiken.970@gmail.com"><img alt="gmail" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-h.aiken.970@gmail-teal?style=for-the-badge&logo=package&logoColor=black"></a>
-  <a href="https://steamcommunity.com/id/AikenH/"><img alt="steam" title="steam" src="https://custom-icon-badges.demolab.com/badge/-Steam-blue?style=for-the-badge&logo=package&logoColor=black"></a>  
-</p>
+
 
 ### 🚀 About Me
 
-I am a Machine Learning Engineer working in the IT industry, Graduated from Xi'an Jiaotong University with a master's degree. 
+I am a Machine Learning Engineer and passionate software developer, specializing in AI research, with a strong commitment to exploring the endless possibilities within the IT industry. I hold a master's degree from Xi'an Jiaotong University.
 
-Currently focusing on AI and machine learning projects, I am also working hard to become a full-stack developer.
-
-I am deeply enthusiastic about exploring new worlds and concepts, thanks to my love for travel and immersive video games. These interests fuel my creativity and drive my willingness to try and learn new things.
+I am currently focused on AI and machine learning projects while diligently working to become a full-stack developer. My enthusiasm for exploring new worlds and concepts is fueled by my love for travel and immersive video games, which inspire my creativity and drive my eagerness to learn and try new things.
 
 ### 🛠️ Skills & Tools
 
@@ -46,4 +37,12 @@ The strategy and perseverance needed in Souls-like games are traits I carry into
 
 Feel free to explore my repositories and connect with me for any collaboration. Let's learn and innovate together!
 
-### Fi.
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://aikenh.cn"><img alt="github" title="AikenD" src="https://custom-icon-badges.demolab.com/badge/-aiken%20blog-palegreen?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://twitter.com/aiken_h97"><img alt="twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/-twitter%20aikenh97-plum?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://www.zhihu.com/people/Aiken-h"><img alt="zhihu" title="Zhihu" src="https://custom-icon-badges.demolab.com/badge/-zhihu%20Aikenh-gold?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://h.aiken.970@gmail.com"><img alt="gmail" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-h.aiken.970@gmail-teal?style=for-the-badge&logo=package&logoColor=black"></a>
+  <a href="https://steamcommunity.com/id/AikenH/"><img alt="steam" title="steam" src="https://custom-icon-badges.demolab.com/badge/-Steam-blue?style=for-the-badge&logo=package&logoColor=black"></a>  
+</p>
