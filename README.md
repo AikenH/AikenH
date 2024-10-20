@@ -2,11 +2,10 @@
 <!-- ![banner](https://user-images.githubusercontent.com/23023315/213860678-edc1a934-5140-4f26-91f0-f5b658dcbfd3.png) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f4c8954-8a9e-4a42-879f-c01d97b4c6ae" width=70%>
-</p>!
-
+  <img src="https://github.com/user-attachments/assets/5f4c8954-8a9e-4a42-879f-c01d97b4c6ae" width=100%>
+</p>
 <p align="center">
-  👋 Hi there! I'm AikenHong.
+  👋 Hi there! I'm AikenHong. <-!#*"//*—%"""
 </p>
 
 
