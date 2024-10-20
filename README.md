@@ -1,16 +1,13 @@
+
 <!-- ![banner](https://user-images.githubusercontent.com/23023315/213860678-edc1a934-5140-4f26-91f0-f5b658dcbfd3.png) -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/23023315/213860678-edc1a934-5140-4f26-91f0-f5b658dcbfd3.png" width=70%>
+  <img src=" https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/DSCF4104_%E5%89%AF%E6%9C%AC.JPG" width=100%>
 </p>
 
-<p align="center">
-  <a href="https://aikenh.cn">
-  <img src="https://picture-bed-001-1310572365.cos.ap-guangzhou.myqcloud.com/mac/167428059648793.png">
-</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=F76A53&background=7AFF5B00&center=true&width=480&lines=Stay+hungry+and+keep+learning;Strive+to+become+a+full-stack+engineer" alt="Typing SVG" /></a>
+  👋 Hi there! I'm AikenHong.
 </p>
 
 <p align="center">
@@ -21,27 +18,32 @@
   <a href="https://steamcommunity.com/id/AikenH/"><img alt="steam" title="steam" src="https://custom-icon-badges.demolab.com/badge/-Steam-blue?style=for-the-badge&logo=package&logoColor=black"></a>  
 </p>
 
+### 🚀 About Me
 
-I am a Machine Learning Engineer work in IT industry, Graduated from Xi'an Jiaotong University with a master's degree. 
+I am a Machine Learning Engineer working in the IT industry, Graduated from Xi'an Jiaotong University with a master's degree. 
 
-In my spare time, I am doing the following projects:
+Currently focusing on AI and machine learning projects, I am also working hard to become a full-stack developer.
 
-- Code A Universal Framework for (CV)Classification to my project
-- Keep Write My Blog (By Hexo
-- LTS for Dotfiles(nvim, vim, tmux, zshrc...)
-- Create Videos for How to Config Linux/Windows/Mac
+I am deeply enthusiastic about exploring new worlds and concepts, thanks to my love for travel and immersive video games. These interests fuel my creativity and drive my willingness to try and learn new things.
 
-[![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=Aikens_programming_notes)](https://github.com/anuraghazra/github-readme-stats)  [![Code Card](https://github-readme-stats.vercel.app/api/pin/?username=AikenH&repo=configs_scripts)](https://github.com/anuraghazra/github-readme-stats)  
+### 🛠️ Skills & Tools
 
-I look forward to becoming a full-stack engineer one day, and I am working hard to improve my programming skills recently.  
-(out of date now)At the same time, as an AI engineer,  recently I paid attention to the following industry developments：
+- **Development Languages**:
+    
+    - Main: Python, C++, Bash
+    - Learning: JavaScript (HTML & CSS)
+    - Future Plans: Rust & Go
 
-1. AIGC
-2. Big Model
-3. Unified model
+- **Development Tools**:
+    
+    - Operating Systems: Mac, Windows, Linux
+    - IDEs: VSCode & Vim (Neovim)
+    - Terminal Emulators: Windows Terminal, WezTerm, iTerm
 
-I will keep updating this readme. If you are interested, you can click a star. The resources and projects are used in this file will be update in the blog.
+### 🎮 Fun Fact
 
-<!--[![Aikenh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AikenH&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+The strategy and perseverance needed in Souls-like games are traits I carry into my coding and research work. Just like in gaming, patience and creativity are key!
 
-封面图来自中国独立游戏大赛，如有侵权请联系；
+Feel free to explore my repositories and connect with me for any collaboration. Let's learn and innovate together!
+
+### Fi.
