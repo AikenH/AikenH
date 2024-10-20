@@ -21,7 +21,8 @@ I am currently focused on AI and machine learning projects while diligently work
 - **Development Languages**:
     
     - Main: Python, C++, Bash
-    - Learning: JavaScript (HTML & CSS)
+    - ... C#, lua, matlab, vimscript, R ...
+    - Learning: JavaScript (HTML & CSS), Java
     - Future Plans: Rust & Go
 
 - **Development Tools**:
